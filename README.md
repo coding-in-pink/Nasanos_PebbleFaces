@@ -11,10 +11,10 @@ The result was a series of watch faces experimenting with both concentric shape 
 * Implemented in C
 
 ## Orbitus
-![Orbitus watch face]
+![Orbitus watch face]https://github.com/nasanos/Nasanos_PebbleFaces/blob/master/orbitus.png
 
 ## Concentrate
-![Concentrate watch face]
+![Concentrate watch face]https://github.com/nasanos/Nasanos_PebbleFaces/blob/master/concentrate.png
 
 ## Sunalsorises
-![Sunalsorises watch face]
+![Sunalsorises watch face]https://github.com/nasanos/Nasanos_PebbleFaces/blob/master/sunalsorises.png
