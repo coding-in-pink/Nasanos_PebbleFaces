@@ -1,0 +1,34 @@
+{
+    "author": "nathanielps@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "sunalso",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Sun Also Rises",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/wrtonwall",
+                    "name": "WRTONWALL_18",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "5bf741c5-cf4d-46e2-9434-c73d41a684d9",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}

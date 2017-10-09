@@ -1,0 +1,34 @@
+{
+    "author": "nathanielps@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "concentrate",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Concentrate",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/DOSos",
+                    "name": "DOSOS_42",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "728acee5-b476-4d19-aac6-d4f1fec2fac3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
